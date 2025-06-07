@@ -1,0 +1,19 @@
+{
+    "name": "Asset Reuploader Development",
+    "tree": {
+        "$className": "DataModel",
+        "PluginDebugService": {
+            "user_AssetReuploader.rbxmx": {
+                "$className": "Plugin",
+                "AssetReuploader": {
+                    "$path": "plugin"
+                }
+            }
+        },
+        "Workspace": {
+            "plugin_tests": {
+                "$path": "plugin_tests"
+            }
+        }
+    }
+}
